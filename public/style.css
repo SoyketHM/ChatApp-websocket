@@ -6,6 +6,7 @@ h2{
     font-size: 18px;
     padding: 10px 20px;
     color: #575ed8;
+    text-align: center;
 }
 
 #mario-chat{
@@ -19,7 +20,7 @@ h2{
 #chat-window{
     height: 400px;
     overflow: auto;
-    background: #f9f9f9;
+    background: #d8e7df;
 }
 
 #output p{
