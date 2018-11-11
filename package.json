@@ -1,0 +1,24 @@
+{
+  "name": "chatapp-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoyketHM/ChatApp-websocket.git"
+  },
+  "author": "soyket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoyketHM/ChatApp-websocket/issues"
+  },
+  "homepage": "https://github.com/SoyketHM/ChatApp-websocket#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
